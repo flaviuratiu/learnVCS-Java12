@@ -4,4 +4,5 @@ public class FirstApp {
 		System.out.println("Learning Java"); 
 	}
 		
+		// new line to practice commits
 }
